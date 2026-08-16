@@ -29,7 +29,11 @@ Berikut adalah rincian materi dan aktivitas yang dilakukan pada setiap pertemuan
 * **Pertemuan 5 :** Eksplorasi & Visualisasi Data
 * **Pertemuan 6 :** Pra-pemrosesan Data (*Data Preprocessing* & *Cleaning*)
 * **Pertemuan 7 :** Pengenalan *Machine Learning* Dasar (Regresi Linier / Klasifikasi)
-
+* **Pertemuan 9 :** Algoritma Kasifikasi : Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, F1-Score
+* **Pertemuan 10 :** Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset
+* **Pertemuan 11 :** Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, Metode Elbow
+* **Pertemuan 12 :** Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori, Collaborative/Content-Based Filtering
+* **Pertemuan 13 :** Pengantar Deep Learning & NLP Dasar: Artificial Neural Network, TF-IDF, Analisis Sentimen
 ---
 
 ## 4. Struktur Direktori
